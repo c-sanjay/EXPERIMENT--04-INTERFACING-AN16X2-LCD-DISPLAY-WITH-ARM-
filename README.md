@@ -191,7 +191,7 @@ Reference nUmber:212223240150
   Lcd_string(&lcd," AIML ");
 
   Lcd_cursor(&lcd, 1,0);
-  Lcd_string(&lcd," ARAVINDAN D");
+  Lcd_string(&lcd," SANJAY C");
 ```
 
 
